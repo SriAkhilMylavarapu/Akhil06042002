@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Akhil Mylavarapu</h1>
-<h3 align="center">A 4th year student pursuing Artificial Intelligence and Engineering Science from IITH</h3>
+<h3 align="center">A Data Analyst at American Express | Artificial Intelligence and Engineering Science from IITH '23</h3>
 
 - 🔭 I’m currently working on **RL solutions for OpenAI gym environments**
 
